@@ -10,7 +10,7 @@ title: yanglaiyang
 description: 万折必东 功不唐捐
 github_username: Losyifiled  # 你的用户名
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpagesJupyter" #你的仓库名
+github_repo: "blog" #你的仓库名
 
 # OPTIONAL: override baseurl and url if using a custom domain 可选项，如果你有自己的域名，并且需要绑定到该网站
 # Note: leave out the trailing / from this value.  写下域名，不要在最后加斜杠/ 
@@ -39,8 +39,7 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".网站子路径，一�
 # Github and twitter are optional:可以在网页底部显示自己的推特和github链接
 minima:
   social_links:
-    wechat:yangbruant 
-    github: losyifiled
+     github: losyifiled
 
 # Set this to true to get LaTeX math equation support 显示LaTeX数学符号
 use_math: true
